@@ -1,4 +1,4 @@
-# DiscordSpamExploit
+# kometarouBOT
 *site*
 https://kometarou1145.github.io/komesite
 Discord:<br>
